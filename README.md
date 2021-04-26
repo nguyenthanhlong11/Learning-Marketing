@@ -125,3 +125,9 @@ Internal link là một liên kết từ trang này sang trang khác trên cùng
 
 ### 38. CTA
 Call to action
+
+### 39. Nofollow
+link không an toàn, báo cho công cụ tìm kiếm không cần quan tâm đến nó
+
+### 40. Dofollow
+Link an toàn, báo cho công cụ tìm kiếm biết rằng mình chắc chắn link này an toàn, không phải spam
