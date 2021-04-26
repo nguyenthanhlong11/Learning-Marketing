@@ -122,3 +122,6 @@ External Link có nghĩa là liên kết với bên ngoài, được dùng để
 
 ### 37. Internal Link
 Internal link là một liên kết từ trang này sang trang khác trên cùng một website. Xây dựng hệ thống Internal link tốt sẽ giúp website cải thiện thứ hạng trên công cụ tìm kiếm.
+
+### 38. CTA
+Call to action
